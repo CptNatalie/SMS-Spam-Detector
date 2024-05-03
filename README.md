@@ -1,1 +1,2 @@
 # sms_spam_detector
+This challenge involves refactoring code for a binary text classification model. Specifically, you will be transforming code from a previous activity, which implemented an SMS text classification solution into a function that constructs a linear Support Vector Classification (SVC) model. Once the model is created, you will use Gradio to host the application, enabling users to test text messages. The application will provide feedback to users, indicating whether the text is classified as spam or not, based on the model's performance.
